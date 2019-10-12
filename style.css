@@ -1,0 +1,128 @@
+#sideNav {
+  background: #F4A3AB;
+    text-align: center;
+}
+
+#mainContent{
+  padding-top: 1rem;
+background: #EEC0C6;
+}
+
+ul{
+    list-style: none;
+    padding-left: 20;
+    font-size: 20;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#mainContent h2 {
+    color: darkslateblue;
+    font-size: 25;
+}
+
+#mainContent h3 {
+    color: darkslateblue;
+    font-size: 25;
+}
+
+#mainContent {
+    padding-left: 50;
+}
+
+img {
+border-radius: 35%;
+    height: 300;
+}
+
+#sideNav h2 {
+    color: darkslategray;
+}
+
+#sideNav h3 {
+    color: darkslategrey;
+}
+
+#Objective h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#WorkExperience h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#Education h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#ExtraCurricularActivities h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#Research h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#SeminarsAttended h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#SeminarsConducted h1 {
+    color: darkslategrey;
+    padding-left: 50;
+    background: #F6E8EA;
+}
+
+#Objective p {
+    padding-left: 50;
+}
+
+#WorkExperience p {
+    padding-left: 50;
+}
+
+#Education p {
+    padding-left: 50;
+}
+
+#ExtraCurricularActivities p {
+    padding-left: 50;
+}
+
+#Research p {
+    padding-left: 50;
+}
+
+#SeminarsAttended p {
+    padding-left: 50;
+}
+
+#SeminarsConducted p {
+    padding-left: 50;
+}
+
+body {
+    font-family: montserrat;
+}
+
+#sideNav h1 {
+    background: #F6E8EA;
+}
